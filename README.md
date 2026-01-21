@@ -121,23 +121,28 @@ Week	Topic
 ---
 
 ## 🎯 Learning Goals
-Through this course, I aim to:
-Understand the history and purpose of media
-Analyze how media reflects and shapes social values
-Develop skills in media analysis and critical thinking
-Connect historical media forms to contemporary digital culture
-Strengthen communication through written and visual media
+-Through this course, I aim to:
+-Understand the history and purpose of media
+-Analyze how media reflects and shapes social values
+-Develop skills in media analysis and critical thinking
+-Connect historical media forms to contemporary digital culture
+-Strengthen communication through written and visual media
 
+---
 
 ##📋 Academic Notes
-Attendance and participation affect performance
-Work must be submitted on time and properly labeled
-Revision and engagement are required for higher grades
-Student work may be used by the college for instructional purposes
-Ideas shared in class are protected under intellectual property law
+-Attendance and participation affect performance
+-Work must be submitted on time and properly labeled
+-Revision and engagement are required for higher grades
+-Student work may be used by the college for instructional purposes
+-Ideas shared in class are protected under intellectual property law
+
+---
 
 ##♿ Accessibility & Support
 Students with disabilities are encouraged to request accommodations early through campus support services within the Peralta Colleges system.
+
+---
 
 ##✍️ Personal Note
 This repository documents my learning journey through media history, film, technology, and communication — exploring how media is not only something we consume, but something we live within.
